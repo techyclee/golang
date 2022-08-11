@@ -1,6 +1,6 @@
 package main
 
-import "github.com/techyclee/go-study/course-A/day001/heygo"
+import "github.com/techyclee/golang/course-A/day001/heygo"
 
 func main() {
 	heygo.Sayhi()
